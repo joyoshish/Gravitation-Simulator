@@ -1,7 +1,7 @@
 # GraviSim
 Simple gravity simulator 
 
-Checkout here: [GSim](https://www.joyoshish.engineer/Gravitation-Simulator/)
+Try this simulation: [GSim](https://www.joyoshish.engineer/Gravitation-Simulator/)
 
 
 
